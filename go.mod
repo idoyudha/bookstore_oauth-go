@@ -1,4 +1,4 @@
-module bookstore_oauth-go
+module github.com/idoyudha/bookstore_oauth-go
 
 go 1.18
 
